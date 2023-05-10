@@ -8,7 +8,7 @@ const componentes = {
     bodyBold: 'strong',
     body2: 'p',
     body2Bold: 'strong',
-    legenda: 'p'
+    legenda: 'p',
 }
 
 const estilos = {
